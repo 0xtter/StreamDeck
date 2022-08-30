@@ -9,7 +9,6 @@ A programmable keyboard with a sd card made with Arduino
 ![View1.jpg](Pictures/View1.jpg)
 ![View2.jpg](Pictures/View2.jpg)
 ![View3.jpg](Pictures/View3.jpg)
-![View4.jpg](Pictures/View4.jpg)
 ![Wires.jpg](Pictures/Wires.jpg)
 
 ## Wiring
