@@ -1,4 +1,3 @@
-
 #define HID_CUSTOM_LAYOUT
 #define LAYOUT_FRENCH
 
@@ -220,7 +219,7 @@ void loop() {
         
       case 1 :
         switch(key){
-          case '1' : //Bouton 1 : Affichage du ping
+          case '1' : //Bouton 1 : Show ping
             OpenExe("cmd /k color 0A & ping riot.nl /t");
             break;
             
@@ -251,7 +250,7 @@ void loop() {
             break;
             
           case '6' :
-            BootKeyboard.println("uuuuuuuuuuuù");
+            BootKeyboard.println("test");
             break;
             
           case '7' :
